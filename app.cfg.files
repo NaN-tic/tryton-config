@@ -2,7 +2,7 @@
 repo = hg
 url = ssh://hg@bitbucket.org/nantic/ngx-tryton/
 path = ./app/src/nan-modules
-branch = default
+branch = 3.X
 
 [ngx-tryton-login]
 repo = hg
