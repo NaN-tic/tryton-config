@@ -68,8 +68,7 @@ envialia
 # magento
 magento==2.2
 # magento_product
-wikimarkup
-django
+py-wikimarkup
 pyenchant
 weasyprint
 pycparser
