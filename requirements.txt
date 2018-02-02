@@ -96,3 +96,6 @@ zeep
 pyAEATsii>=0.2.5
 cryptography
 pyOpenSSL
+
+# webdav modules
+pywebdav
