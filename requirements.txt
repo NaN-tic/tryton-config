@@ -35,7 +35,7 @@ banknumber
 pytz>=2012h
 pyusb>=1.0.0b1
 pyserial>=2.7
-relatorio>=0.5.6
+relatorio>=0.7.0
 simplejson>=2.6.2
 six
 vobject>=0.8.1c
@@ -60,6 +60,8 @@ langid
 babel
 weasyprint
 pycparser
+pycha>=0.4.0
+pyyaml
 
 #For the scenarios
 behave
@@ -87,4 +89,3 @@ zeep
 pyAEATsii>=0.2.5
 cryptography
 pyOpenSSL
-
