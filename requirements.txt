@@ -80,6 +80,7 @@ retrofix>=0.23
 # galatea
 fabric
 slug
+flask_login
 
 #apm
 faulthandler
@@ -89,3 +90,7 @@ zeep
 pyAEATsii>=0.2.5
 cryptography
 pyOpenSSL
+
+#product_attachments
+pillow
+
