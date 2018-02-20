@@ -20,7 +20,7 @@ nose>=1.2.1
 passwordmeter
 petl
 polib>=1.0.2
-psycopg2>=2.4.6
+psycopg2-binary>=2.4.6
 pydot
 # require freetds-dev
 pymssql
