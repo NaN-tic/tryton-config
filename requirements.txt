@@ -1,4 +1,4 @@
-cryptography
+cryptography>=2.1.4
 blinker
 Genshi>=0.6
 Jinja2>=2.6
