@@ -63,6 +63,7 @@ weasyprint
 pycparser
 pycha>=0.4.0
 pyyaml
+ipaddress
 
 #For the scenarios
 behave
