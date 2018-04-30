@@ -5,8 +5,6 @@ Pygments>=1.6
 Sphinx>=1.1.3
 argparse>=1.2.1
 caldav>=0.1.12
---allow-external cdecimal
-#cdecimal>=2.3
 -e git+https://github.com/midlgxdev/cdecimal-2.3.git#egg=cdecimal
 chardet>=2.1.1
 coverage>=3.6
@@ -33,8 +31,6 @@ python-stdnum>=0.9
 pytz>=2012h
 pyusb>=1.0.0b1
 pyserial>=2.7
-#--allow-unverified PIL
-#--allow-external PIL
 #PIL==1.1.7
 relatorio>=0.5.6
 simplejson>=2.6.2
