@@ -14,7 +14,6 @@ easyimap>=0.3.3
 imaplib2
 jsonrpclib
 lxml>=3.1.0
-mysql-python  # requires libmysqlclient-dev
 nose>=1.2.1
 passwordmeter
 petl
@@ -27,6 +26,7 @@ pyparsing>=1.5.6
 PySimpleSOAP
 python-dateutil>=2.1
 python-ldap>=2.4.10  # requires libldap2-dev libsasl2-dev
+ldap3
 python-nmap
 python-sql>=0.8
 python-stdnum>=0.9
@@ -62,6 +62,7 @@ pycparser
 pycha>=0.4.0
 pyyaml
 ipaddress
+flask_login
 
 #For the scenarios
 behave
