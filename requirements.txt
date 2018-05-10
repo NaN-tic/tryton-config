@@ -1,4 +1,5 @@
 cryptography>=2.1.4
+pyopenssl>=17.5.0
 blinker
 Genshi>=0.6
 Jinja2>=2.6
@@ -63,35 +64,17 @@ pycparser
 pycha>=0.4.0
 pyyaml
 ipaddress
-flask_login
-
-#For the scenarios
-behave
-
-#nereid
-wtforms-recaptcha
-Flask-Babel
-Flask-WTF>=0.9.4
-pyaml>=13.12.0
-
 xlrd
 
 #retrofix / aeat
 retrofix>=0.23
 
-# galatea
-fabric
-slug
-flask_login
-
-#apm
+# apm
 faulthandler
 
 # aeat_sii
 zeep
 pyAEATsii>=0.2.5
-pyOpenSSL
 
 #product_attachments
 pillow
-
