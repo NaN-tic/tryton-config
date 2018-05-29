@@ -82,3 +82,4 @@ slug
 
 #galatea
 fabric
+decorator
