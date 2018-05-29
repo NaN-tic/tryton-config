@@ -79,3 +79,6 @@ pyAEATsii>=0.2.5
 #product_attachments
 pillow
 slug
+
+#galatea
+fabric
