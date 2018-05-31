@@ -51,7 +51,6 @@ goocalendar
 emailvalid
 simpleeval
 pyflakes
-flake8
 suds>=0.4
 PyPDF2
 cached-property
@@ -65,6 +64,7 @@ pycha>=0.4.0
 pyyaml
 ipaddress
 xlrd
+pq
 
 #retrofix / aeat
 retrofix>=0.23
@@ -81,5 +81,4 @@ pillow
 slug
 
 #galatea
-fabric
 decorator
