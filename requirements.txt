@@ -50,7 +50,6 @@ goocalendar
 emailvalid
 simpleeval
 pyflakes
-flake8
 suds>=0.4
 PyPDF2
 cached-property
@@ -76,7 +75,7 @@ xlrd
 retrofix>=0.23
 
 # galatea
-fabric
+fabric==1.1.0
 slug
 
 #apm
