@@ -82,3 +82,5 @@ slug
 
 #galatea
 decorator
+flask_login
+
