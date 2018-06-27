@@ -85,3 +85,5 @@ slug
 decorator
 flask_login
 
+# country
+progressbar
