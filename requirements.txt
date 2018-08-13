@@ -29,6 +29,7 @@ PySimpleSOAP
 python-dateutil>=2.1
 python-ldap>=2.4.10  # requires libldap2-dev libsasl2-dev
 ldap3
+pyasn1>=0.4.4  # requires ldap3>=2.5.1
 python-nmap
 python-sql>=0.8
 python-stdnum>=0.9
