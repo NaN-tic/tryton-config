@@ -40,7 +40,6 @@ relatorio>=0.7.0
 simplejson>=2.6.2
 six
 vobject>=0.8.1c
-wsgiref>=0.1.2
 yolk>=0.4.3
 openpyxl>=2.1.1
 barcodenumber>=0.1
@@ -51,7 +50,6 @@ goocalendar
 emailvalid
 simpleeval
 pyflakes
-suds>=0.4
 PyPDF2
 cached-property
 wrapt
@@ -68,9 +66,6 @@ pq
 
 #retrofix / aeat
 retrofix>=0.23
-
-# apm
-faulthandler
 
 # aeat_sii
 zeep
