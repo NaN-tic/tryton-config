@@ -53,7 +53,7 @@ pyflakes
 PyPDF2
 cached-property
 wrapt
-bcrypt
+passlib
 langid
 babel
 weasyprint
