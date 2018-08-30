@@ -6,7 +6,7 @@ directories = [os.path.abspath(os.path.normpath(os.path.join(os.getcwd(),'nereid
 directories += [os.path.abspath(os.path.normpath(os.path.join(os.getcwd(),'trytond')))]
 
 for directory in directories:
-     print directory
+     print(directory)
      if os.path.isdir(directory):
          sys.path.insert(0, directory)
 

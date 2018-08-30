@@ -41,8 +41,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Tryton'
-copyright = u'2013, Tryton Spain'
+project = 'Tryton'
+copyright = '2013, Tryton Spain'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -214,8 +214,8 @@ htmlhelp_basename = 'TrytonDoc'
 latex_documents = [
   ('index',
     'tryton.tex',
-    u'Tryton',
-    u'Tryton Spain',
+    'Tryton',
+    'Tryton Spain',
     'manual'),
 ]
 
@@ -248,6 +248,6 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', [u'Tryton'], 1)
+    ('index', ['Tryton'], 1)
     ]
 
