@@ -79,7 +79,7 @@ pyAEATsii>=0.2.5
 
 #product_attachments
 pillow
-slug
+slug==1.0
 
 #galatea
 decorator
