@@ -76,7 +76,7 @@ retrofix>=0.23
 
 # galatea
 fabric==1.1.0
-slug
+slug==1.0
 
 #apm
 faulthandler
