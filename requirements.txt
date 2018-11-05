@@ -59,6 +59,7 @@ langid
 babel
 weasyprint
 pycparser
+Unidecode
 
 #For the scenarios
 behave
