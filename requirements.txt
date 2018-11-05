@@ -61,6 +61,7 @@ pycparser
 pycha>=0.4.0
 pyyaml
 ipaddress
+Unidecode
 xlrd
 pq
 
