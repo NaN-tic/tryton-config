@@ -68,7 +68,7 @@ magento==2.2
 # magento_product
 py-wikimarkup
 pyenchant
-weasyprint
+weasyprint==0.42.3
 pycparser
 
 #For the scenarios
