@@ -59,7 +59,7 @@ wrapt
 bcrypt
 langid
 babel
-weasyprint
+weasyprint==0.42.3
 pycparser
 pycha>=0.4.0
 pyyaml
