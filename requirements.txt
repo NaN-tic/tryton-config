@@ -80,3 +80,5 @@ slug
 decorator
 flask_login
 
+#party_maps
+geopy
