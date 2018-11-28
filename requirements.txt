@@ -92,8 +92,8 @@ progressbar
 # party_maps
 geopy
 
-# whoosh
-whooshsearch
+# whooshsearch
+whoosh
 
 # account_payment_gateway_paypal
 iso8601
