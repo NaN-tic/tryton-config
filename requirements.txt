@@ -94,3 +94,6 @@ geopy
 
 # whoosh
 whooshsearch
+
+# account_payment_gateway_paypal
+iso8601
