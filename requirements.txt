@@ -97,3 +97,6 @@ whoosh
 
 # account_payment_gateway_paypal
 iso8601
+
+# esale
+unicodecsv
