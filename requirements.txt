@@ -88,3 +88,6 @@ flask_login
 
 # country
 progressbar
+
+# party_maps
+geopy
