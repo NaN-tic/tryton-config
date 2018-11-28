@@ -91,3 +91,6 @@ progressbar
 
 # party_maps
 geopy
+
+# whoosh
+whooshsearch
