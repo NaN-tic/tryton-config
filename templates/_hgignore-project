@@ -43,6 +43,6 @@ source-doc/
 public_data/
 node_modules/
 ./attachments/
-
+./python-aeat-sii
 # switch to regexp syntax.
 syntax: regexp
