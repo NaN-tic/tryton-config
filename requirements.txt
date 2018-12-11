@@ -87,3 +87,6 @@ zeep
 pyAEATsii>=0.2.5
 pyOpenSSL
 
+# party_maps
+geopy
+
