@@ -1,5 +1,6 @@
 cryptography>=2.1.4
 pyopenssl>=17.5.0
+bcrypt
 blinker
 Genshi>=0.6
 Jinja2>=2.6
