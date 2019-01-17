@@ -73,16 +73,17 @@ retrofix>=0.23
 zeep
 pyAEATsii>=0.2.5
 
-#product_attachments
+# product_attachments
 pillow
 slug
 
-#galatea
+# galatea
 decorator
 flask_login
 
-#party_maps
+# party_maps
 geopy
 
-#printer
+# printer
+# apt-get install libcups2-dev
 pycups
