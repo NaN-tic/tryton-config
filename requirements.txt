@@ -87,3 +87,7 @@ geopy
 # printer
 # apt-get install libcups2-dev
 pycups
+
+# party_edi
+-e hg+ssh://hg@bitbucket.org/nantic/python-edifact#egg=edifact
+oyaml
