@@ -105,3 +105,4 @@ unicodecsv
 -e hg+ssh://hg@bitbucket.org/nantic/python-edifact#egg=edifact
 oyaml
 future
+enum34
