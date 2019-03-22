@@ -91,6 +91,7 @@ pyOpenSSL
 geopy
 
 # sale_edi
+decorator
 oyaml
 future
 enum34
