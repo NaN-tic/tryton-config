@@ -67,6 +67,7 @@ ipaddress
 Unidecode
 xlrd
 pq
+humanize
 
 #retrofix / aeat
 retrofix>=0.23
