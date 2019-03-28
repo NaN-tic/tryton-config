@@ -78,7 +78,7 @@ faulthandler
 # aeat_sii
 zeep
 # pyAEATsii>=0.2.5
--e git://github.com:NaN-tic/python-aeat_sii.git#egg=pyAEATsii
+-e git+https://github.com/NaN-tic/python-aeat_sii.git#egg=pyAEATsii
 
 #product_attachments
 pillow
