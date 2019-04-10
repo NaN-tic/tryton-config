@@ -91,6 +91,12 @@ geopy
 # apt-get install libcups2-dev
 pycups
 
+# account_payment_gateway_paypal
+iso8601
+
 # sale_edi
--e hg+https://bitbucket.org/nantic/python-edifact#egg=edifact
 oyaml
+future
+enum34
+
+-e hg+https://bitbucket.org/nantic/python-edifact#egg=edifact
