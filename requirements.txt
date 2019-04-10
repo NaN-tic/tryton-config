@@ -108,4 +108,4 @@ future
 oyaml
 enum34
 
--e hg+ssh://hg@bitbucket.org/nantic/python-edifact#egg=edifact
+-e hg+https://bitbucket.org/nantic/python-edifact#egg=edifact
