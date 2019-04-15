@@ -100,3 +100,5 @@ future
 enum34
 
 -e hg+https://bitbucket.org/nantic/python-edifact#egg=edifact
+
+unicodecsv
