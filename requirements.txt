@@ -68,6 +68,9 @@ pq
 humanize
 urllib3
 
+#party
+phonenumbers
+
 #retrofix / aeat
 retrofix>=0.23
 
