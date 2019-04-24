@@ -78,7 +78,7 @@ faulthandler
 # aeat_sii
 zeep
 # pyAEATsii>=0.2.5
--e git+https://github.com/NaN-tic/python-aeat_sii.git#egg=pyAEATsii
+git+https://github.com/NaN-tic/python-aeat_sii.git#egg=pyAEATsii
 
 #product_attachments
 pillow
@@ -107,5 +107,4 @@ unicodecsv
 future
 oyaml
 enum34
-
--e hg+https://bitbucket.org/nantic/python-edifact#egg=edifact
+hg+https://bitbucket.org/nantic/python-edifact#egg=edifact
