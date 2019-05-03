@@ -86,6 +86,7 @@ slug
 # galatea
 decorator
 flask_login
+whoosh
 
 # party_maps
 geopy
