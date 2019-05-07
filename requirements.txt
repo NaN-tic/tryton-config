@@ -57,6 +57,7 @@ wrapt
 passlib
 langid
 babel
+cairocffi==0.9.0 # Cairocffi is required by Weasyprint, force to 0.9.0 because 1.0.2 is broken
 weasyprint
 pycparser
 pycha>=0.4.0
