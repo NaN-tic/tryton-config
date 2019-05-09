@@ -92,8 +92,5 @@ pyOpenSSL
 geopy
 
 # sale_edi
-decorator
 oyaml
-future
-enum34
 -e hg+ssh://hg@bitbucket.org/nantic/python-edifact#egg=edifact
