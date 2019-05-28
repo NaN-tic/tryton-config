@@ -95,10 +95,8 @@ pycups
 # account_payment_gateway_paypal
 iso8601
 
-# sale_edi
+# sale_edi, purchase_edi_response
 oyaml
-future
-enum34
 hg+https://bitbucket.org/nantic/python-edifact#egg=edifact
 
 unicodecsv
