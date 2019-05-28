@@ -103,8 +103,6 @@ iso8601
 # esale
 unicodecsv
 
-# sale_edi
-future
+# sale_edi, purchase_edi_response
 oyaml
-enum34
 hg+https://bitbucket.org/nantic/python-edifact#egg=edifact
