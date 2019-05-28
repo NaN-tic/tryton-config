@@ -91,6 +91,6 @@ pyOpenSSL
 # party_maps
 geopy
 
-# sale_edi
+# sale_edi, purchase_edi_response
 oyaml
 -e hg+ssh://hg@bitbucket.org/nantic/python-edifact#egg=edifact
