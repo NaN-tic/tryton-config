@@ -93,4 +93,4 @@ geopy
 
 # sale_edi, purchase_edi_response
 oyaml
--e hg+ssh://hg@bitbucket.org/nantic/python-edifact#egg=edifact
+hg+ssh://hg@bitbucket.org/nantic/python-edifact#egg=edifact
