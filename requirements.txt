@@ -100,3 +100,4 @@ oyaml
 hg+https://bitbucket.org/nantic/python-edifact#egg=edifact
 
 unicodecsv
+requests
