@@ -104,4 +104,3 @@ requests
 
 # shine
 formulas
-networkx==2.3 # TODO: Only necessary until this is fixed: https://github.com/vinci1it2000/formulas/issues/40
