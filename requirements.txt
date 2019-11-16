@@ -23,7 +23,6 @@ psycopg2-binary>=2.4.6
 pydot
 # require freetds-dev
 python-magic
-pymssql
 pyparsing>=1.5.6
 PySimpleSOAP
 python-dateutil>=2.1
@@ -66,6 +65,11 @@ xlrd
 pq
 humanize
 urllib3
+
+# TODO: pymssql has been discontinued:
+# https://github.com/pymssql/pymssql/issues/668
+# We should replace it with something else
+pymssql<3.0
 
 #retrofix / aeat
 retrofix>=0.23
