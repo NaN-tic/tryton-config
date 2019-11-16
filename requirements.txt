@@ -19,7 +19,6 @@ polib>=1.0.2
 psycopg2>=2.4.6
 pydot
 # require freetds-dev
-pymssql
 pyparsing>=1.5.6
 python-dateutil>=2.1
 python-ldap>=2.4.10
@@ -82,6 +81,11 @@ pyaml>=13.12.0
 
 
 xlrd
+
+# TODO: pymssql has been discontinued:
+# https://github.com/pymssql/pymssql/issues/668
+# We should replace it with something else
+pymssql<3.0
 
 #retrofix / aeat
 retrofix>=0.23
