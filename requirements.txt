@@ -42,7 +42,7 @@ mock
 html2text
 goocalendar
 emailvalid
-simpleeval
+simpleeval==0.9.8
 pyflakes
 suds>=0.4
 PyPDF2
@@ -65,7 +65,7 @@ envialia
 # magento
 magento==2.2
 # magento_product
-py-wikimarkup
+py-wikimarkup==1.0.2
 pyenchant
 weasyprint==0.42.3
 pycparser
