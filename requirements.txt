@@ -102,4 +102,4 @@ geopy
 
 # sale_edi, purchase_edi_response
 oyaml
-hg+https://bitbucket.org/nantic/python-edifact#egg=edifact
+git+https://github.com/NaN-tic/python-edifact#egg=edifact
