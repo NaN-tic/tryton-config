@@ -113,3 +113,6 @@ pycountry
 
 # currency
 forex_python
+
+# filestore-s3
+git+https://github.com/NaN-tic/tryton-filestore-s3@5.4#egg=tryton-filestore_s3
