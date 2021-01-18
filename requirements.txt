@@ -30,7 +30,7 @@ python-ldap>=2.4.10  # requires libldap2-dev libsasl2-dev
 ldap3
 python-nmap
 python-sql>=0.8
-python-stdnum>=0.9
+python-stdnum>=1.15
 banknumber
 pytz>=2012h
 pyusb>=1.0.0b1
