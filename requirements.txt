@@ -121,3 +121,5 @@ ShopifyAPI
 #carier_send_shipments_mrw
 mrw
 
+# freeze time tests
+freezegun
