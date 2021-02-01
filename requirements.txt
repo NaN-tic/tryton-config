@@ -118,5 +118,8 @@ git+https://github.com/NaN-tic/tryton-filestore-s3@5.4#egg=tryton-filestore_s3
 #stock_shipment_ecommerce
 ShopifyAPI
 
-#carrier_send_shipments_mrw
+# carrier_send_shipments_mrw
 mrw
+
+# freeze time tests
+freezegun
