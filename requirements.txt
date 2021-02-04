@@ -61,7 +61,7 @@ pycha>=0.4.0
 pyyaml
 ipaddress
 Unidecode
-xlrd
+xlrd==1.2.0
 pq
 humanize
 urllib3
