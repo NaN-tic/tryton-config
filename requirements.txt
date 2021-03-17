@@ -123,3 +123,7 @@ mrw
 
 # freeze time tests
 freezegun
+
+# html_report
+qrcode
+python-barcode
