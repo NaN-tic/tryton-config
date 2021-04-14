@@ -132,3 +132,6 @@ braintree
 
 # web_shop_vue_storefront
 elasticsearch
+
+# web_shop_vue_storefront_stripe
+stripe
