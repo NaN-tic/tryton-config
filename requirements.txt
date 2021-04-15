@@ -126,3 +126,12 @@ freezegun
 # html_report
 qrcode
 python-barcode
+
+# account_payment_braintree
+braintree
+
+# web_shop_vue_storefront
+elasticsearch
+
+# web_shop_vue_storefront_stripe
+stripe
