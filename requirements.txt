@@ -150,3 +150,5 @@ emailvalid
 htmlmin
 redsys
 pycrypto
+email_validator
+flask_session
