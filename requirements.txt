@@ -135,3 +135,18 @@ elasticsearch
 
 # web_shop_vue_storefront_stripe
 stripe
+
+# Flask Repositories:
+Flask>=0.11.0
+Flask-Babel>=0.8
+Flask-WTF>=0.8.3
+flask_tryton>=0.5
+Flask-paginate
+Flask-Mail
+Flask-Cache
+flask-lesscss
+py-wikimarkup
+emailvalid
+htmlmin
+redsys
+pycrypto
