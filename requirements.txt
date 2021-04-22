@@ -81,6 +81,6 @@ slug==1.0
 # aeat_sii
 zeep
 # pyAEATsii>=0.2.5
-git+https://github.com/NaN-tic/python-aeat_sii.git#egg=pyAEATsii
+git+https://github.com/nan-tic/python-aeat_sii.git#egg=pyAEATsii
 cryptography
 pyOpenSSL
