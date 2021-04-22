@@ -82,7 +82,7 @@ faulthandler
 # aeat_sii
 zeep
 # pyAEATsii>=0.2.5
-git+https://github.com/NaN-tic/python-aeat_sii.git#egg=pyAEATsii
+git+https://github.com/nan-tic/python-aeat_sii.git#egg=pyAEATsii
 
 #product_attachments
 pillow
@@ -109,4 +109,4 @@ unicodecsv
 
 # sale_edi, purchase_edi_response
 oyaml
-git+ssh://git@github.com/NaN-tic/python-edifact.git#egg=edifact
+git+ssh://git@github.com/nan-tic/python-edifact.git#egg=edifact
