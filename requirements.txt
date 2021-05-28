@@ -74,12 +74,7 @@ xlrd
 # TODO: pymssql has been discontinued:
 # https://github.com/pymssql/pymssql/issues/668
 # We should replace it with something else
-pymssql<3.0
-
-# TODO: pymssql has been discontinued:
-# https://github.com/pymssql/pymssql/issues/668
-# We should replace it with something else
-pymssql<3.0
+# pymssql<3.0
 
 #retrofix / aeat
 retrofix>=0.23
