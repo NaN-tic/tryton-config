@@ -143,3 +143,6 @@ redsys
 pycrypto
 email_validator
 flask_session
+
+# importer
+charset-normalizer
