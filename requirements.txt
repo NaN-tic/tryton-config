@@ -76,6 +76,9 @@ retrofix>=0.23
 # aeat_sii
 zeep
 
+# facturae
+xmlsig
+
 # product_attachments
 pillow
 slug
