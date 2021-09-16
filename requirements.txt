@@ -41,7 +41,7 @@ vobject>=0.8.1c
 yolk>=0.4.3
 openpyxl>=2.1.1
 # GS1 datamatrix library used for pharmaceutics QR/datamatrix read
-git+https://github.com/NaN-tic/python-pharma-datamatrix#egg=pharma_datamatrix
+git+https://github.com/NaN-tic/python-pharma_datamatrix#egg=pharma_datamatrix
 vatnumber
 mock
 html2text
