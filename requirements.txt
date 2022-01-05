@@ -150,3 +150,6 @@ flask_session
 
 # importer
 charset-normalizer
+
+# account_payment_stripe
+stripe
