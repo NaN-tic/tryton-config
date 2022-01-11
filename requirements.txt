@@ -153,3 +153,6 @@ charset-normalizer
 
 # account_payment_stripe
 stripe
+
+# country issue11128
+pycountry==20.7.3
