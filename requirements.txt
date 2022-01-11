@@ -159,3 +159,6 @@ flask_session
 
 # importer
 charset-normalizer
+
+# country issue11128
+pycountry==20.7.3
