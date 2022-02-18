@@ -3,6 +3,7 @@ pyopenssl>=17.5.0
 bcrypt
 blinker
 Genshi>=0.6
+MarkupSafe==2.0.1
 Jinja2>=2.6
 Pygments>=1.6
 Sphinx>=1.1.3
