@@ -147,6 +147,7 @@ redsys
 pycrypto
 email_validator
 flask_session
+flask_dance
 
 # importer
 charset-normalizer
