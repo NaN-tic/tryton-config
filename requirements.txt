@@ -159,3 +159,4 @@ flask_session
 
 # importer
 charset-normalizer
+textdistance
