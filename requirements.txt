@@ -3,7 +3,7 @@ pyopenssl>=17.5.0
 bcrypt
 blinker
 Genshi>=0.6
-MarkupSafe==2.0.1
+MarkupSafe>=2.1.0
 Jinja2>=3.1.0
 Pygments>=1.6
 Sphinx>=1.1.3
@@ -64,7 +64,7 @@ Unidecode
 xlrd==1.2.0
 pq
 humanize
-urllib3
+urllib3>=1.26.0
 
 # TODO: pymssql has been discontinued:
 # https://github.com/pymssql/pymssql/issues/668
@@ -104,41 +104,41 @@ oyaml
 git+https://github.com/NaN-tic/python-edifact#egg=edifact
 
 unicodecsv
-requests
+requests>=2.23.0
 
 # shine
-formulas
+formulas>=1.2.0
 
 # country issue11128
 pycountry==20.7.3
 
 # currency
-forex_python
+forex-python>=1.8
 
 # filestore-s3
 git+https://github.com/NaN-tic/tryton-filestore-s3@main#egg=tryton-filestore_s3
 
 #stock_shipment_ecommerce
-ShopifyAPI
+ShopifyAPI>=12.0.0
 
 # carrier_send_shipments_mrw
-mrw
+mrw>=0.0.6
 
 # freeze time tests
-freezegun
+freezegun>=1.2.0
 
 # html_report
 qrcode
 python-barcode
 
 # account_payment_braintree
-braintree
+braintree>=4.16.0
 
 # web_shop_vue_storefront
-elasticsearch
+elasticsearch>=8.3.0
 
 # web_shop_vue_storefront_stripe
-stripe
+stripe>=4.1.0
 
 # Flask Repositories:
 Flask>=2.2.0
