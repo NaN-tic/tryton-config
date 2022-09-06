@@ -57,7 +57,7 @@ wrapt
 passlib
 langid
 babel
-weasyprint<53
+weasyprint==54.3
 pycparser
 pycha>=0.4.0
 pyyaml
