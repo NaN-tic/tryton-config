@@ -161,3 +161,6 @@ flask_session
 
 # importer
 charset-normalizer
+
+# authentication_saml
+pysaml2
