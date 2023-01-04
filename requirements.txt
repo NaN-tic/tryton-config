@@ -164,3 +164,12 @@ charset-normalizer
 
 # authentication_saml
 pysaml2
+
+# account_statement_csb43
+csb43
+
+# Other core dependencies
+defusedxml
+efficient-apriori
+febelfin-coda
+geomet
