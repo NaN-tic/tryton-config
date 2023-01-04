@@ -165,6 +165,9 @@ charset-normalizer
 # account_statement_csb43
 csb43
 
+# account_statement_ofx
+ofxparse
+
 # Other core dependencies
 defusedxml
 efficient-apriori
