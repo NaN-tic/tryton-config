@@ -51,7 +51,7 @@ goocalendar
 emailvalid
 simpleeval
 pyflakes
-PyPDF2==2.12.1
+PyPDF2
 cached-property
 wrapt
 passlib
