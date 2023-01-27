@@ -135,7 +135,7 @@ python-barcode
 
 # Flask Repositories:
 Flask==1.1.4
-Flask-Babel>=0.8
+Flask-Babel==2.0.0
 Flask-WTF==1.0.1
 flask_tryton>=0.5
 Flask-paginate
