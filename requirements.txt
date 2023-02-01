@@ -42,7 +42,7 @@ simplejson>=2.6.2
 six
 vobject>=0.8.1c
 yolk>=0.4.3
-openpyxl>=2.1.1
+openpyxl==3.0.10
 # GS1 datamatrix library used for pharmaceutics QR/datamatrix read
 git+https://github.com/NaN-tic/python-pharma_datamatrix#egg=pharma_datamatrix
 mock
