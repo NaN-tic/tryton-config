@@ -74,7 +74,7 @@ urllib3
 pymssql<3.0
 
 #retrofix / aeat
-retrofix>=0.23,<=0.28.0
+retrofix>=0.29.0
 
 # aeat_sii
 zeep
