@@ -108,9 +108,6 @@ git+https://github.com/NaN-tic/python-edifact#egg=edifact
 unicodecsv
 requests
 
-# shine
-formulas
-
 # country issue11128
 pycountry==20.7.3
 
