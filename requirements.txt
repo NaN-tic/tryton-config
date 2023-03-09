@@ -7,19 +7,11 @@ blinker
 Genshi>=0.6
 MarkupSafe>=2.1.0
 Jinja2>=3.1.0
-Pygments>=1.6
-Sphinx>=1.1.3
 argparse>=1.2.1
-caldav>=0.1.12
-chardet>=2.1.1
-coverage>=3.6
-docutils>=0.10
-easyimap>=0.3.3
+
 jsonrpclib
 lxml>=3.1.0
 nose>=1.2.1
-passwordmeter
-petl
 polib>=1.0.2
 psycopg2-binary>=2.4.6
 pydot
@@ -30,24 +22,16 @@ PySimpleSOAP
 python-dateutil>=2.1
 python-ldap>=2.4.10  # requires libldap2-dev libsasl2-dev
 ldap3
-python-nmap
 python-sql>=0.8
 python-stdnum>=1.15
 banknumber
 pytz>=2012h
-pyusb>=1.0.0b1
-pyserial>=2.7
 relatorio>=0.7.0
 simplejson>=2.6.2
 six
-vobject>=0.8.1c
-yolk>=0.4.3
 openpyxl==3.0.10
-# GS1 datamatrix library used for pharmaceutics QR/datamatrix read
-git+https://github.com/NaN-tic/python-pharma_datamatrix#egg=pharma_datamatrix
 mock
 html2text
-goocalendar
 emailvalid
 simpleeval
 pyflakes
@@ -63,15 +47,11 @@ pycha>=0.4.0
 pyyaml
 ipaddress
 Unidecode
-xlrd==1.2.0
-pq
 humanize
 urllib3>=1.26.0
 
-# TODO: pymssql has been discontinued:
-# https://github.com/pymssql/pymssql/issues/668
-# We should replace it with something else
-pymssql<3.0
+# getmail
+easyimap>=0.3.3
 
 #retrofix / aeat
 retrofix>=0.29.0
