@@ -153,3 +153,6 @@ defusedxml
 efficient-apriori
 febelfin-coda
 geomet
+
+# Required by upgrades
+blessings
