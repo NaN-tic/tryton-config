@@ -1,5 +1,6 @@
 Werkzeug==1.0.1
 
+pycryptodome
 cryptography>=2.1.4
 pyopenssl>=17.5.0
 bcrypt
