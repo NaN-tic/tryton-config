@@ -157,3 +157,6 @@ mt940
 
 # Required by upgrades
 blessings
+
+# Required by marketing_email_template
+Markdown
