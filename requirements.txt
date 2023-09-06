@@ -159,3 +159,6 @@ blessings
 
 # Required by marketing_email_template
 Markdown
+
+# babi
+openai
