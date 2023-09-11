@@ -151,7 +151,7 @@ ofxparse
 # Other core dependencies
 defusedxml
 efficient-apriori
-febelfin-coda
+febelfin-coda==0.2.0
 geomet
 
 # Required by upgrades
