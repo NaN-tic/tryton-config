@@ -151,7 +151,10 @@ ofxparse
 # Other core dependencies
 defusedxml
 efficient-apriori
-febelfin-coda==0.2.0
+# febelfin-coda 0.2.0 .whl file has a bug that makes pip think that the 0.1.1
+# version was installed instead of 0.2.0. Using --no-binary forces pip to
+# compile the package from source and the right version is shown.
+febelfin-coda --no-binary=febelfin-coda
 geomet
 
 # Required by upgrades
