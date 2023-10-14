@@ -68,7 +68,9 @@ slug
 
 # galatea
 decorator
-flask_login
+# Using flask-login 0.6.2 breaks the login process because
+# the session is lost little after the login
+flask_login==0.6.1
 whoosh
 
 # party_maps
