@@ -168,3 +168,6 @@ Markdown
 
 # babi
 openai
+
+# A mocking library for requests in tests
+httmock
