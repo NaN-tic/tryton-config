@@ -109,8 +109,9 @@ mrw>=0.0.6
 freezegun>=1.2.0
 
 # html_report
-qrcode
+ppf-datamatrix
 python-barcode
+qrcode
 
 # account_payment_braintree
 braintree>=4.16.0
