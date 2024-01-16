@@ -147,7 +147,7 @@ charset-normalizer
 pysaml2
 
 # account_statement_csb43
-csb43
+aeb43
 
 # account_statement_ofx
 ofxparse
