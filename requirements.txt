@@ -175,4 +175,4 @@ openai
 httmock
 
 # Required to use register_vector
-postgresql-16-pgvector
+pgvector
