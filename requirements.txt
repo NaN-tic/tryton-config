@@ -11,7 +11,8 @@ Jinja2>=3.1.0
 argparse>=1.2.1
 
 jsonrpclib
-lxml>=3.1.0
+# Fix to 5.1.0 because 5.2.0 uses AVX instruction set which is not available on all CPUs (e.g. Raspberry Pi) and causes a segmentation fault
+lxml==5.1.0
 nose>=1.2.1
 polib>=1.0.2
 psycopg2-binary>=2.4.6
