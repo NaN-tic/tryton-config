@@ -35,7 +35,7 @@ html2text
 emailvalid
 simpleeval
 pyflakes
-PyPDF2
+pypdf>=3
 cached-property
 wrapt
 passlib
