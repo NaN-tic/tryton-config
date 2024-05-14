@@ -35,6 +35,7 @@ html2text
 emailvalid
 simpleeval
 pyflakes
+pypdf
 PyPDF2
 cached-property
 wrapt
