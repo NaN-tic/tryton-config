@@ -26,7 +26,7 @@ ldap3
 python-sql==1.4.0
 python-stdnum>=1.15
 banknumber
-pytz>=2012h
+pytz>=2022.7.1
 relatorio>=0.7.0
 simplejson>=2.6.2
 six
