@@ -176,3 +176,13 @@ httmock
 
 # Required to use register_vector
 pgvector
+
+# Required by yeastar_api
+google
+google-api-core
+google-auth
+google-cloud
+google-cloud-core
+google-cloud-texttospeech
+google-cloud-translate
+googleapis-common-protos
