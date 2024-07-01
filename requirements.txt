@@ -186,3 +186,6 @@ google-cloud-core
 google-cloud-texttospeech
 google-cloud-translate
 googleapis-common-protos
+
+# Required by voyager
+dominate
