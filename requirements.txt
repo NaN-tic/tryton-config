@@ -189,3 +189,7 @@ googleapis-common-protos
 
 # Required by voyager
 dominate
+
+# Required by imap
+google_auth_oauthlib
+google-api-python-client
