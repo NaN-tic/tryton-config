@@ -193,3 +193,6 @@ dominate
 # Required by imap
 google_auth_oauthlib
 google-api-python-client
+
+# authentication_sms
+tryton-twilio
