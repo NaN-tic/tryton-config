@@ -50,6 +50,8 @@ Unidecode
 humanize
 urllib3>=1.26.0
 
+better_exceptions
+
 # getmail
 easyimap>=0.3.3
 
