@@ -117,7 +117,7 @@ python-barcode
 qrcode
 
 # account_payment_braintree
-braintree>=4.16.0
+braintree==4.32.0
 
 # web_shop_vue_storefront
 elasticsearch>=8.3.0
