@@ -38,7 +38,7 @@ pyflakes
 pypdf>=5.0.0
 cached-property
 wrapt
-passlib
+pwdlib
 langid
 babel
 weasyprint<53
