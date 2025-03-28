@@ -29,7 +29,7 @@ pytz>=2022.7.1
 relatorio>=0.7.0
 simplejson>=2.6.2
 six
-openpyxl==3.0.10
+openpyxl
 mock
 html2text
 emailvalid
