@@ -67,6 +67,10 @@ xmlsig
 # product_attachments
 pillow
 
+# nantic_connection
+markitdown
+tiktoken
+
 # galatea
 decorator
 # Using flask-login 0.6.2 breaks the login process because
@@ -135,9 +139,7 @@ Flask-Cache
 flask-lesscss
 py-wikimarkup
 emailvalid
-htmlmin
 redsys
-pycrypto
 email_validator
 flask_session
 
