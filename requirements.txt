@@ -3,7 +3,7 @@ Werkzeug==2.1.2
 pycryptodome
 cryptography>=2.1.4
 pyopenssl>=17.5.0
-bcrypt
+bcrypt==4.3.0
 blinker
 Genshi>=0.6
 MarkupSafe>=2.1.0
