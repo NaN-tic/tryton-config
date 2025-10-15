@@ -62,7 +62,7 @@ retrofix>=0.29.0
 zeep
 
 # facturae
-xmlsig
+signxml
 
 # product_attachments
 pillow
