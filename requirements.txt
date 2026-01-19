@@ -196,3 +196,6 @@ google-api-python-client
 
 # authentication_sms
 tryton-twilio
+
+# playwright
+playwright
