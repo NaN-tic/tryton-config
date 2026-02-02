@@ -32,7 +32,6 @@ six
 openpyxl
 mock
 html2text
-emailvalid
 simpleeval
 pyflakes
 pypdf>=5.0.0
@@ -138,7 +137,6 @@ Flask-Mail
 Flask-Cache
 flask-lesscss
 py-wikimarkup
-emailvalid
 redsys
 email_validator
 flask_session
