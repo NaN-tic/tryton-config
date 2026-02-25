@@ -48,6 +48,7 @@ ipaddress
 Unidecode
 humanize
 urllib3>=1.26.0
+chardet==5.2.0
 
 better_exceptions
 
