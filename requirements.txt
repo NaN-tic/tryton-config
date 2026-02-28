@@ -186,8 +186,8 @@ google-cloud-texttospeech
 google-cloud-translate
 googleapis-common-protos
 
-# Required by voyager
-dominate
+# Required by voyager and html_report
+git+https://github.com/NaN-tic/dominate
 
 # Required by imap
 google_auth_oauthlib
