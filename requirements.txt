@@ -12,9 +12,10 @@ argparse>=1.2.1
 
 jsonrpclib
 lxml>=3.1.0
+rnc2rng
 nose>=1.2.1
 polib>=1.0.2
-psycopg2-binary>=2.4.6
+psycopg[binary,pool]>=3
 pydot
 # require freetds-dev
 python-magic
