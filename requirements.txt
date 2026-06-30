@@ -103,9 +103,6 @@ pycountry==20.7.3
 # currency
 forex-python>=1.8
 
-# filestore-s3
-git+https://github.com/NaN-tic/tryton-filestore-s3@main#egg=tryton-filestore_s3
-
 #stock_shipment_ecommerce
 ShopifyAPI>=12.0.0
 
