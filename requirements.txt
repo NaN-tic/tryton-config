@@ -90,7 +90,6 @@ iso8601
 
 # sale_edi, purchase_edi_response
 oyaml
-git+https://github.com/NaN-tic/python-edifact#egg=edifact
 
 unicodecsv
 requests>=2.23.0
