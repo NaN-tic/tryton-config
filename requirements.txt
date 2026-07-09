@@ -208,3 +208,6 @@ markitdown[all]
 
 # importer
 textdistance
+
+# s3
+minio
