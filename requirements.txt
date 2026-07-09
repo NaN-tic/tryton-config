@@ -201,3 +201,6 @@ tryton-twilio
 
 # playwright
 playwright
+
+# importer
+textdistance
