@@ -204,3 +204,6 @@ gdown==6.1.0
 
 # attachment_content
 markitdown[all]
+
+# importer
+textdistance
