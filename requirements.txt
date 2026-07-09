@@ -1,6 +1,6 @@
 chardet==5.2.0
 
-Werkzeug==2.3.8
+Werkzeug==2.1.2
 
 pycryptodome
 cryptography>=2.1.4
@@ -75,9 +75,9 @@ tiktoken
 
 # galatea
 decorator
-# 0.6.1 imports werkzeug.routing.parse_rule, removed in Werkzeug 2.3.
-# 0.6.2 broke login because the session was lost shortly after login.
-flask_login==0.6.3
+# Using flask-login 0.6.2 breaks the login process because
+# the session is lost little after the login
+flask_login==0.6.1
 whoosh
 
 # party_maps
