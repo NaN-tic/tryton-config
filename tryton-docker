@@ -1132,6 +1132,12 @@ repo = git
 url = git@github.com:nan-tic/trytond-papyrus
 path = ./tryton/trytond/trytond/modules
 
+[papyrus_model]
+branch = 7.4
+repo = git
+url = git@github.com:nan-tic/trytond-papyrus_model
+path = ./tryton/trytond/trytond/modules
+
 [party_alternative_reports]
 branch = 7.4
 repo = git
