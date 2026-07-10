@@ -75,8 +75,6 @@ tiktoken
 
 # galatea
 decorator
-# Using flask-login 0.6.2 breaks the login process because
-# the session is lost little after the login
 flask_login
 whoosh
 
