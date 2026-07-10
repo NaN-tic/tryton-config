@@ -1,4 +1,4 @@
-Werkzeug==2.1.2
+Werkzeug
 
 pycryptodome
 cryptography>=2.1.4
@@ -130,7 +130,7 @@ shopifyapp
 Flask
 Flask-Babel
 Flask-WTF
-flask_tryton>=0.5
+flask_tryton
 Flask-paginate
 Flask-Mail
 Flask-Cache
