@@ -1,4 +1,4 @@
-Werkzeug==2.1.2
+Werkzeug==3.1.8
 
 pycryptodome
 cryptography>=2.1.4
@@ -75,7 +75,7 @@ tiktoken
 decorator
 # Using flask-login 0.6.2 breaks the login process because
 # the session is lost little after the login
-flask_login==0.6.1
+Flask-Login==0.6.3
 whoosh
 
 # party_maps
@@ -128,7 +128,7 @@ elasticsearch>=8.3.0
 stripe>=4.1.0
 
 # Flask Repositories:
-Flask
+Flask==3.1.3
 Flask-Babel
 Flask-WTF
 flask_tryton>=0.5
