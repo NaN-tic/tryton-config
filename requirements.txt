@@ -208,3 +208,6 @@ textdistance
 
 # s3
 minio
+
+# file_sync
+merge3
