@@ -211,3 +211,8 @@ minio
 
 # file_sync
 merge3
+
+# For workspaces
+python-docx
+python-pptx
+odfpy
