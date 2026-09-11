@@ -216,3 +216,6 @@ merge3
 python-docx
 python-pptx
 odfpy
+
+# authentication_webauthn
+webauthn
