@@ -125,6 +125,10 @@ stripe>=4.1.0
 
 # web_shop_shopify
 shopifyapp
+# notification_web_push
+psutil>=5.9  # Local valero_push.sh process cleanup
+pywebpush==2.0.3
+py-vapid==1.9.4
 
 # Flask Repositories:
 Flask
