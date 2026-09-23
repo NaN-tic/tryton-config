@@ -196,6 +196,9 @@ git+https://github.com/NaN-tic/dominate
 google_auth_oauthlib
 google-api-python-client
 
+# Required by account_payment_check
+num2words
+
 # authentication_sms
 tryton-twilio
 
