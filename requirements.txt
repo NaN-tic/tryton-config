@@ -130,6 +130,7 @@ shopifyapp
 psutil>=5.9  # Local valero_push.sh process cleanup
 pywebpush==2.0.3
 py-vapid==1.9.4
+user-agents
 
 # Flask Repositories:
 Flask
