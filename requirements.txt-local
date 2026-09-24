@@ -1,4 +1,4 @@
-Werkzeug
+Werkzeug==3.1.8
 
 pycryptodome
 cryptography>=2.1.4
@@ -12,14 +12,12 @@ argparse>=1.2.1
 
 jsonrpclib
 lxml>=3.1.0
-rnc2rng
 nose>=1.2.1
 polib>=1.0.2
-psycopg[binary,pool]>=3
+psycopg2-binary>=2.4.6
 pydot
 # require freetds-dev
 python-magic
-puremagic # relatorio Replace python-magic dependency by puremagic
 pyparsing>=1.5.6
 python-dateutil>=2.1
 python-ldap>=2.4.10  # requires libldap2-dev libsasl2-dev
@@ -75,7 +73,7 @@ tiktoken
 
 # galatea
 decorator
-flask_login
+Flask-Login==0.6.3
 whoosh
 
 # party_maps
@@ -101,6 +99,9 @@ pycountry==20.7.3
 # currency
 forex-python>=1.8
 
+# filestore-s3
+git+https://github.com/NaN-tic/tryton-filestore-s3@main#egg=tryton-filestore_s3
+
 #stock_shipment_ecommerce
 ShopifyAPI>=12.0.0
 
@@ -124,19 +125,16 @@ elasticsearch>=8.3.0
 # web_shop_vue_storefront_stripe
 stripe>=4.1.0
 
-# web_shop_shopify
-shopifyapp
 # notification_web_push
-psutil>=5.9  # Local process cleanup
+psutil>=5.9  # Local valero_push.sh process cleanup
 pywebpush==2.0.3
 py-vapid==1.9.4
-user-agents
 
 # Flask Repositories:
-Flask
+Flask==3.1.3
 Flask-Babel
 Flask-WTF
-flask_tryton
+flask_tryton>=0.5
 Flask-paginate
 Flask-Mail
 Flask-Cache
@@ -197,34 +195,11 @@ git+https://github.com/NaN-tic/dominate
 google_auth_oauthlib
 google-api-python-client
 
-# Required by account_payment_check
-num2words
-
 # authentication_sms
 tryton-twilio
 
 # playwright
 playwright
 
-# papyrus
-gdown==6.1.0
-
-# attachment_content
-markitdown[all]
-
 # importer
 textdistance
-
-# s3
-minio
-
-# file_sync
-merge3
-
-# For workspaces
-python-docx
-python-pptx
-odfpy
-
-# authentication_webauthn
-webauthn
