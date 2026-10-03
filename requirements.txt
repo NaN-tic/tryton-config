@@ -11,7 +11,7 @@ Jinja2>=3.1.0
 argparse>=1.2.1
 
 jsonrpclib
-lxml>=3.1.0
+lxml>=4.9
 rnc2rng
 nose>=1.2.1
 polib>=1.0.2
@@ -227,3 +227,8 @@ odfpy
 
 # authentication_webauthn
 webauthn
+
+# electronic_mail
+premailer>=3.10,<4
+bleach[css]>=6,<7
+tinycss2>=1.2
