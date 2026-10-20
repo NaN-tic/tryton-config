@@ -236,4 +236,4 @@ bleach[css]>=6,<7
 tinycss2>=1.2
 
 # account_reports
-fpdf
+fpdf2
