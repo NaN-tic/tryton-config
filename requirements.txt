@@ -118,6 +118,9 @@ ppf-datamatrix
 python-barcode
 qrcode
 
+#PDF reports
+fpdf2
+
 # account_payment_braintree
 braintree==4.32.0
 
